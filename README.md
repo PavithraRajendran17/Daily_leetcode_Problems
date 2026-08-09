@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0551-student-attendance-record-i) |
 | [0804-unique-morse-code-words](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0804-unique-morse-code-words) |
 | [0942-di-string-match](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0942-di-string-match) |
+| [1360-number-of-days-between-two-dates](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1360-number-of-days-between-two-dates) |
 | [1417-reformat-the-string](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1417-reformat-the-string) |
 | [1496-path-crossing](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1496-path-crossing) |
 ## Hash Table
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1360-number-of-days-between-two-dates](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1360-number-of-days-between-two-dates) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
