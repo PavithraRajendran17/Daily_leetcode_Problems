@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0257-binary-tree-paths) |
 | [0551-student-attendance-record-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0551-student-attendance-record-i) |
 | [0804-unique-morse-code-words](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0804-unique-morse-code-words) |
 | [0942-di-string-match](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0942-di-string-match) |
@@ -58,4 +59,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0944-delete-columns-to-make-sorted) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0257-binary-tree-paths) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0257-binary-tree-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
