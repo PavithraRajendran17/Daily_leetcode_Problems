@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1360-number-of-days-between-two-dates](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1360-number-of-days-between-two-dates) |
+| [1408-string-matching-in-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1408-string-matching-in-an-array) |
 | [1417-reformat-the-string](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1417-reformat-the-string) |
 | [1496-path-crossing](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1496-path-crossing) |
 | [1528-shuffle-string](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1528-shuffle-string) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1408-string-matching-in-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1528-shuffle-string) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Two Pointers
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [1408-string-matching-in-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1408-string-matching-in-an-array) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
