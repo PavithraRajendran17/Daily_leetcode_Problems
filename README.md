@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1496-path-crossing) |
 | [1507-reformat-date](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1507-reformat-date) |
 | [1528-shuffle-string](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1528-shuffle-string) |
+| [1544-make-the-string-great](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1544-make-the-string-great) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1544-make-the-string-great) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
