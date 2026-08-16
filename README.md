@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1544-make-the-string-great) |
 | [1556-thousand-separator](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1556-thousand-separator) |
 | [1592-rearrange-spaces-between-words](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1592-rearrange-spaces-between-words) |
+| [1668-maximum-repeating-substring](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1668-maximum-repeating-substring) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
@@ -98,9 +99,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1408-string-matching-in-an-array) |
+| [1668-maximum-repeating-substring](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1668-maximum-repeating-substring) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
