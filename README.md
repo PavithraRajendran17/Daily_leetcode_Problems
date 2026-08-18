@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-thousand-separator](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1556-thousand-separator) |
 | [1592-rearrange-spaces-between-words](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1592-rearrange-spaces-between-words) |
 | [1668-maximum-repeating-substring](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1668-maximum-repeating-substring) |
+| [1694-reformat-phone-number](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1694-reformat-phone-number) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1796-second-largest-digit-in-a-string](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1805-number-of-different-integers-in-a-string) |
