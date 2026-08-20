@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1496-path-crossing](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1496-path-crossing) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1796-second-largest-digit-in-a-string](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1796-second-largest-digit-in-a-string) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1122-relative-sort-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1331-rank-transform-of-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1528-shuffle-string) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1122-relative-sort-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1122-relative-sort-array) |
+| [1331-rank-transform-of-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 ## Counting Sort
 |  |
 | ------- |
