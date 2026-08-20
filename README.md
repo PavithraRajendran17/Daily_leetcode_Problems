@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0804-unique-morse-code-words](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0804-unique-morse-code-words) |
+| [1122-relative-sort-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1496-path-crossing](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1496-path-crossing) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0804-unique-morse-code-words) |
 | [0942-di-string-match](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0944-delete-columns-to-make-sorted) |
+| [1122-relative-sort-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1408-string-matching-in-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1528-shuffle-string) |
@@ -127,4 +129,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1122-relative-sort-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1122-relative-sort-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
