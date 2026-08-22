@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0804-unique-morse-code-words](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0804-unique-morse-code-words) |
 | [1122-relative-sort-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1122-relative-sort-array) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1122-relative-sort-array) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1408-string-matching-in-an-array) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
