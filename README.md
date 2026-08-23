@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1796-second-largest-digit-in-a-string](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1805-number-of-different-integers-in-a-string) |
+| [1816-truncate-sentence](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1816-truncate-sentence) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1528-shuffle-string) |
+| [1816-truncate-sentence](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1816-truncate-sentence) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Two Pointers
 |  |
