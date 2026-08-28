@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1534-count-good-triplets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Array
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1408-string-matching-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1528-shuffle-string) |
+| [1534-count-good-triplets](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1534-count-good-triplets) |
 | [1748-sum-of-unique-elements](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1816-truncate-sentence) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
