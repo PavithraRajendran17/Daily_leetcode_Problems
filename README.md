@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1534-count-good-triplets) |
+| [1539-kth-missing-positive-number](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1550-three-consecutive-odds) |
 | [1748-sum-of-unique-elements](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1816-truncate-sentence) |
@@ -206,4 +207,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1539-kth-missing-positive-number](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
