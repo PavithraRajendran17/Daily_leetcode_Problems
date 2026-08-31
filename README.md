@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1030-matrix-cells-in-distance-order](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1266-minimum-time-visiting-all-points](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1360-number-of-days-between-two-dates](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1360-number-of-days-between-two-dates) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1030-matrix-cells-in-distance-order](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1046-last-stone-weight](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1122-relative-sort-array) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0888-fair-candy-swap) |
 | [0922-sort-array-by-parity-ii](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1030-matrix-cells-in-distance-order](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1200-minimum-absolute-difference) |
@@ -198,10 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1030-matrix-cells-in-distance-order](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1266-minimum-time-visiting-all-points](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 ## Matrix
 |  |
 | ------- |
+| [1030-matrix-cells-in-distance-order](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
