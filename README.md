@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0892-surface-area-of-3d-shapes](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0892-surface-area-of-3d-shapes) |
 | [0976-largest-perimeter-triangle](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0976-largest-perimeter-triangle) |
 | [1030-matrix-cells-in-distance-order](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0804-unique-morse-code-words](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0804-unique-morse-code-words) |
 | [0888-fair-candy-swap](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0888-fair-candy-swap) |
+| [0892-surface-area-of-3d-shapes](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0892-surface-area-of-3d-shapes) |
 | [0922-sort-array-by-parity-ii](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0944-delete-columns-to-make-sorted) |
@@ -217,12 +219,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0892-surface-area-of-3d-shapes](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0892-surface-area-of-3d-shapes) |
 | [1030-matrix-cells-in-distance-order](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 ## Matrix
 |  |
 | ------- |
+| [0892-surface-area-of-3d-shapes](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0892-surface-area-of-3d-shapes) |
 | [1030-matrix-cells-in-distance-order](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
