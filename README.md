@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0976-largest-perimeter-triangle](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0976-largest-perimeter-triangle) |
+| [0999-available-captures-for-rook](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0999-available-captures-for-rook) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1030-matrix-cells-in-distance-order](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1046-last-stone-weight](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1046-last-stone-weight) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-surface-area-of-3d-shapes](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0892-surface-area-of-3d-shapes) |
+| [0999-available-captures-for-rook](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0999-available-captures-for-rook) |
 | [1030-matrix-cells-in-distance-order](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0999-available-captures-for-rook](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0999-available-captures-for-rook) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [1646-get-maximum-in-generated-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1646-get-maximum-in-generated-array) |
