@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0976-largest-perimeter-triangle) |
 | [0999-available-captures-for-rook](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0999-available-captures-for-rook) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1030-matrix-cells-in-distance-order](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1046-last-stone-weight](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1051-height-checker) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Counting
 |  |
 | ------- |
