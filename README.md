@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1331-rank-transform-of-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1496-path-crossing](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1496-path-crossing) |
 | [1748-sum-of-unique-elements](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1748-sum-of-unique-elements) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -206,12 +208,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Counting Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1122-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Quicksort
 |  |
 | ------- |
