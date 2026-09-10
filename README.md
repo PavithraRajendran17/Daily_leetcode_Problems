@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1331-rank-transform-of-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1313-decompress-run-length-encoded-list](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1313-decompress-run-length-encoded-list) |
 | [1331-rank-transform-of-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0922-sort-array-by-parity-ii](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0942-di-string-match) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
 |  |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0888-fair-candy-swap](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0888-fair-candy-swap) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1539-kth-missing-positive-number) |
