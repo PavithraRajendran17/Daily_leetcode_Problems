@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0804-unique-morse-code-words](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0804-unique-morse-code-words) |
 | [0888-fair-candy-swap](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0888-fair-candy-swap) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1122-relative-sort-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0944-delete-columns-to-make-sorted) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0976-largest-perimeter-triangle) |
 | [0999-available-captures-for-rook](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0999-available-captures-for-rook) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -285,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0976-largest-perimeter-triangle) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
