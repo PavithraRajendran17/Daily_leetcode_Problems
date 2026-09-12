@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1408-string-matching-in-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1408-string-matching-in-an-array) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0724-find-pivot-index) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3903-smallest-stable-index-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3903-smallest-stable-index-i) |
