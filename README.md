@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1646-get-maximum-in-generated-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1646-get-maximum-in-generated-array) |
 | [1748-sum-of-unique-elements](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1816-truncate-sentence) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1619-mean-of-array-after-removing-some-elements) |
 ## Counting Sort
 |  |
 | ------- |
