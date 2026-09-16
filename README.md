@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1528-shuffle-string](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1534-count-good-triplets) |
 | [1539-kth-missing-positive-number](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1539-kth-missing-positive-number) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1710-maximum-units-on-a-truck](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1710-maximum-units-on-a-truck) |
 ## Counting Sort
