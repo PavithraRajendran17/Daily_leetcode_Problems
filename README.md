@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-get-maximum-in-generated-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1646-get-maximum-in-generated-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1710-maximum-units-on-a-truck](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1710-maximum-units-on-a-truck) |
+| [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1732-find-the-highest-altitude](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
