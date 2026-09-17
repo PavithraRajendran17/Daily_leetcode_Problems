@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1646-get-maximum-in-generated-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1646-get-maximum-in-generated-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1710-maximum-units-on-a-truck](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1710-maximum-units-on-a-truck) |
 ## Counting Sort
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1539-kth-missing-positive-number) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Polygons
 |  |
 | ------- |
