@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1360-number-of-days-between-two-dates](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1360-number-of-days-between-two-dates) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1816-truncate-sentence](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1816-truncate-sentence) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3876-construct-uniform-parity-array-ii) |
