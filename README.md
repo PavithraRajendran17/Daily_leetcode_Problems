@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1854-maximum-population-year](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1854-maximum-population-year) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1748-sum-of-unique-elements) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1854-maximum-population-year](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1854-maximum-population-year) |
 ## Stack
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1732-find-the-highest-altitude) |
+| [1854-maximum-population-year](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1854-maximum-population-year) |
 | [3903-smallest-stable-index-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
 |  |
