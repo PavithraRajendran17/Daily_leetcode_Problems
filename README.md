@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1854-maximum-population-year](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1854-maximum-population-year) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1710-maximum-units-on-a-truck](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1710-maximum-units-on-a-truck) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Counting Sort
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0976-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1122-relative-sort-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Bubble Sort
 |  |
 | ------- |
