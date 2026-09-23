@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1544-make-the-string-great) |
 | [1556-thousand-separator](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1556-thousand-separator) |
 | [1592-rearrange-spaces-between-words](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1592-rearrange-spaces-between-words) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1668-maximum-repeating-substring](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1668-maximum-repeating-substring) |
 | [1694-reformat-phone-number](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1694-reformat-phone-number) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1640-check-array-formation-through-concatenation](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1640-check-array-formation-through-concatenation) |
 | [1646-get-maximum-in-generated-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1646-get-maximum-in-generated-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1710-maximum-units-on-a-truck](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
