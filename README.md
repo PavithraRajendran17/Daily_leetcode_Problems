@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1544-make-the-string-great) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Longest Increasing Subsequence
@@ -353,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
