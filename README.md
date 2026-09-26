@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-number-of-days-between-two-dates](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1360-number-of-days-between-two-dates) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -356,14 +358,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Euclidean Algorithm
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Queue
 |  |
 | ------- |
