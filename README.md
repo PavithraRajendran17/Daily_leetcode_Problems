@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1816-truncate-sentence](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1816-truncate-sentence) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3876-construct-uniform-parity-array-ii) |
