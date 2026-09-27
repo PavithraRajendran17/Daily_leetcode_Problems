@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1854-maximum-population-year) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
