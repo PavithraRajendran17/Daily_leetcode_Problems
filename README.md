@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2255-count-prefixes-of-a-given-string) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
