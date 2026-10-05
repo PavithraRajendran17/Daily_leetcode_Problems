@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2094-finding-3-digit-even-numbers](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2248-intersection-of-multiple-arrays](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2248-intersection-of-multiple-arrays) |
 ## Math
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1534-count-good-triplets](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1534-count-good-triplets) |
 | [1995-count-special-quadruplets](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1995-count-special-quadruplets) |
+| [2094-finding-3-digit-even-numbers](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Array
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2248-intersection-of-multiple-arrays](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2248-intersection-of-multiple-arrays) |
 ## Counting Sort
@@ -415,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Recursion
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
