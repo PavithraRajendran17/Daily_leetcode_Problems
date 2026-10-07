@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2255-count-prefixes-of-a-given-string) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 ## Greedy
 |  |
 | ------- |
