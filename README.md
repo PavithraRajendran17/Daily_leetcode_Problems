@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2094-finding-3-digit-even-numbers](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2248-intersection-of-multiple-arrays) |
 ## Math
 |  |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2255-count-prefixes-of-a-given-string) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
