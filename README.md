@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2373-largest-local-values-in-a-matrix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2373-largest-local-values-in-a-matrix) |
 ## Simulation
 |  |
 | ------- |
