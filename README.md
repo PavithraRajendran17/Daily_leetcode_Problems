@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2451-odd-string-difference](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2451-odd-string-difference) |
+| [2460-apply-operations-to-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2460-apply-operations-to-an-array) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2460-apply-operations-to-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2460-apply-operations-to-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/1929-concatenation-of-array) |
+| [2460-apply-operations-to-an-array](https://github.com/PavithraRajendran17/Daily_leetcode_Problems/tree/master/2460-apply-operations-to-an-array) |
 ## Binary Search
 |  |
 | ------- |
